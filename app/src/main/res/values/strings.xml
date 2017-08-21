@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Etiquetas Flotantes</string>
+    <string name="str">Nombre</string>
+    <string name="str_2">Telefono</string>
+    <string name="str_3">Correo</string>
+    <string name="str_4">CANCELAR</string>
+    <string name="str_5">ACEPTAR</string>
+    <string name="i1">Nombre</string>
+    <string name="i2">Apellido</string>
+    <string name="i3">Correo</string>
+</resources>
